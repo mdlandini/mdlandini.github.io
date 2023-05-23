@@ -4,7 +4,7 @@
 # THEME. Leave Lines 4-6 alone.
 #---------------------
 remote_theme: kalanicraig/community-archive-jekyll
-repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
+repository: 'mdlandini/mdlandini.github.io' # change this to your repository name
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
@@ -42,30 +42,30 @@ repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "IDAH@IU"
+title: "Trial"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An Archive of Our Community's Heirlooms"
+subtitle: "Test Subtitle"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Community Archiving Site"
+description: "Test Description"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "IDAH@IU"
-authorname : "Institute for Digital Arts and Humanities"
+author: "Test Author"
+authorname : "Test Author Name"
 sitelogo: "site_logo.jpg"
 
 # What year did you start up this community project?
-sitedate : 2022
+sitedate : 2023
 
 # Other community social media. Leave blank if you don't have these.
-email : "idah [at] iu.edu"
+email : "mlandin [at] iu.edu"
 website : "https://idah.indiana.edu/"
-twitter : "IDAH_IU"
-github : "idahatiu"
-facebook : "idahatiu"
-instagram : 
+twitter : 
+github : "mdlandini"
+facebook : 
+instagram : "Test Insta"
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
@@ -95,8 +95,8 @@ fontchoice: slab # A funky slab font with clean sans-serif accents
 #colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
-colorchoice: marigold # Near-black with marigold yellow
-#colorchoice: red # Black, crimson and grey
+#colorchoice: marigold # Near-black with marigold yellow
+colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green
 
